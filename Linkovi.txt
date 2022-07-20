@@ -1,0 +1,7 @@
+https://github.com/tzapu/WiFiManager/issues/1280
+
+https://www.instructables.com/Introduction-Library-WifiManager-for-Esp8266/
+
+https://github.com/mijazm/ESP01WifiSwitch
+
+https://randomnerdtutorials.com/esp8266-nodemcu-wi-fi-manager-asyncwebserver/
